@@ -18,7 +18,7 @@ This is a solution to the [Chat app CSS illustration challenge on Frontend Mento
 ### Links
 
 - Solution URL: [Click Here 🚀](https://github.com/ubed90/chat-app-css-illustration)
-- Live Site URL: [Click Here 🚀](https://your-live-site-url.com)
+- Live Site URL: [Click Here 🚀](https://ubed90.github.io/chat-app-css-illustration/)
 
 ## My process
 
